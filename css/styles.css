@@ -70,6 +70,7 @@ a {
   background: #2e2f42;
 }
 .hero-title {
+  text-align: center;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -121,6 +122,7 @@ button {
   background: #f4f4fd;
 }
 .our-team-title {
+  text-align: center;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
@@ -151,6 +153,7 @@ button {
 .our-portfolio {
 }
 .our-portfolio-title {
+  text-align: center;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
